@@ -7,6 +7,8 @@ public class WordCounter {
     }
 
     public Map<String, Integer> getWordCountMap() {
+
+
         return null;
     }
 }

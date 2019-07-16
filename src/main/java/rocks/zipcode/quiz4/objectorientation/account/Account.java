@@ -5,9 +5,12 @@ package rocks.zipcode.quiz4.objectorientation.account;
  */
 public class Account extends BankAccount {
     public Long getId() {
-        return null;
+
+
+        return this.getId() ;
     }
 
     public void setId(Long id) {
+        setId(id);
     }
 }
